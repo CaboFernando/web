@@ -1,0 +1,41 @@
+div.geral {
+    width: 1080px;     
+    padding: 0px 120px 0px 120px
+}
+div.azul {
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+}
+div.vermelho {
+    background-color: red;
+    width: 15%;
+    height: 400px;
+    display: inline-block;            
+    margin-right: -4px;
+}
+ div.verde {
+    background-color: green;
+    width: 70%;
+    height: 400px;
+    display: inline-block; 
+    margin-right: -4px;
+}
+div.laranja {
+    background-color: orange;
+    width: 15%;
+    height: 320px;
+    display: inline-block; 
+    margin-bottom: 80px;
+}
+div.amarelo {
+    background-color: yellow;
+    width: 100%;
+    height: 100px;    
+    margin-top: -4px;        
+}
+div.preto {
+    background-color: black;
+    width: 20%;
+    height: 50px;
+}

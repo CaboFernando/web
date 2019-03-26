@@ -1,0 +1,27 @@
+.red-box {
+    background-color: red;
+    height: 600px;
+    width: 600px;
+    border: 2px dashed black;
+    margin: 10px auto 10px auto;
+}
+.blue-box {
+    background-color: blue;
+    height: 500px;
+    width: 500px;
+    margin: 50px auto 50px auto;    
+}
+.green-box {
+    background-color: green;
+    height: 350px;
+    width: 350px;    
+    margin: 50px auto 50px auto;
+
+}
+.yellow-box {
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+    margin: 0px 0px 0px auto;
+    padding-top: 0%;
+}
